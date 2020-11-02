@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+test12
+=======
+balkaìvìafdf
+>>>>>>> 06e16ae (edited abc)
